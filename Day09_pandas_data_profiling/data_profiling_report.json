@@ -1,0 +1,52 @@
+{
+  "Dataset Overview": {
+    "Total Rows": 891,
+    "Total Columns": 12,
+    "Column Names": [
+      "PassengerId",
+      "Survived",
+      "Pclass",
+      "Name",
+      "Sex",
+      "Age",
+      "SibSp",
+      "Parch",
+      "Ticket",
+      "Fare",
+      "Cabin",
+      "Embarked"
+    ],
+    "Memory Usage (MB)": 0.28
+  },
+  "Column Types": {
+    "Numerical Columns": [
+      "PassengerId",
+      "Survived",
+      "Pclass",
+      "Age",
+      "SibSp",
+      "Parch",
+      "Fare"
+    ],
+    "Categorical Columns": [
+      "Name",
+      "Sex",
+      "Ticket",
+      "Cabin",
+      "Embarked"
+    ]
+  },
+  "Missing Data Summary": {
+    "Total Missing Values": 866,
+    "Percentage Missing": "8.10%",
+    "Columns with Missing Data": {
+      "Age": 177,
+      "Cabin": 687,
+      "Embarked": 2
+    }
+  },
+  "Duplicate Records": {
+    "Total Duplicates": 0,
+    "Duplicate Percentage": "0.00%"
+  }
+}
