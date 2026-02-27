@@ -141,7 +141,7 @@ The dataset contains transactional records from a retail store during Black Frid
 🔜 Next Step: Applying Regression Models to Predict Purchase Amount  
 
 
-## 📂 Repository Structure (Suggested)
+## 📂 Repository Structure 
 Black-Friday-Sales/
 │
 ├── notebook.ipynb
