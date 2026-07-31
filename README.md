@@ -8,6 +8,8 @@
 </p>
 
 
+
+
 ##  Project Overview
 
 Black Friday marks the beginning of the major holiday shopping season, where retailers experience extremely high sales volumes. Understanding customer purchasing behavior during this period helps businesses optimize pricing strategies, inventory planning, and marketing efforts.
